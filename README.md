@@ -59,13 +59,13 @@ Apasionado por transformar datos en información útil para apoyar la toma de de
 - Generación de datos con Python
 - Dashboard en Power BI
 - KPIs Logísticos
-Enlace del proyecto: https://app.powerbi.com/view?r=eyJrIjoiNjRkYTU0NmQtZDM0MC00ZjFhLWJmOGMtYmEwODA2Zjg1MzYyIiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9
+-Enlace del proyecto: https://app.powerbi.com/view?r=eyJrIjoiNjRkYTU0NmQtZDM0MC00ZjFhLWJmOGMtYmEwODA2Zjg1MzYyIiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9
 
 🤝 **Dashboard ONG Potenciar Solidario**
 
 - Looker Studio
 - Google Sheets
-Enlace del proyecto: https://datastudio.google.com/reporting/190d5c19-a7bc-4a3b-abf6-172f458a3cd3/page/p_b4uwwq4ymd
+-Enlace del proyecto: https://datastudio.google.com/reporting/190d5c19-a7bc-4a3b-abf6-172f458a3cd3/page/p_b4uwwq4ymd
 ---
 
 ## 📫 Contáctame
